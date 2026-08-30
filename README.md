@@ -1,2 +1,2 @@
-# kuhs-computer
-this case is my first repository
+# computer
+this is my first repository
